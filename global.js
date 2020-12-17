@@ -48,7 +48,7 @@ function updateAllFooters () {
               </div>
 
               <div class="col col-lg-4 col-md-5 col-sm-8">
-                <img class="mx-5" style="max-width: 100%; width: auto; height: auto;" alt="Junior Achievement USA, a member of JA worldwide" src="https://cdn.glitch.com/9997fac9-1a66-40ea-9959-2e849e187dcf%2FJanj_logo.png?v=1607889948448">
+                <img class="mx-5" style="max-width: 100%; width: auto; height: auto;" alt="Junior Achievement USA, a member of JA worldwide" src="https://cdn.glitch.com/9997fac9-1a66-40ea-9959-2e849e187dcf%2FJA-of-New-Jersey-Green.jpg?v=1608245048395">
               </div>
         </div>
 
